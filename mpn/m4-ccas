@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/sw/bash/bin/bash
 #
 # A helper script for Makeasm.am .asm.lo rule.
 
